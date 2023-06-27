@@ -1,2 +1,2 @@
-# GeogeekWorkshops.github.io
-Geogeeks workshops
+## Maia Williams
+# Projects, publications and dissertations
