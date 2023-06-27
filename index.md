@@ -1,4 +1,6 @@
-# Maia Williams
+---
+title: Maia Williams
+---
 ## Projects, publications and dissertations
 
 ESEAP Presentation
