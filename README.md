@@ -1,2 +1,2 @@
-## Maia Williams
-# Projects, publications and dissertations
+# Maia Williams
+## Projects, publications and dissertations
