@@ -1,16 +1,6 @@
 @import "{{ site.theme }}";
 @import "fonts";
 
-header {
-    h1{
-        color: #000000;
-        a {
-            color:#000000;
-            text-decoration:none;
-            font-size:50px;
-          }   
-    }
-}
 body {
   font: 14px/1.5 "Roboto", Helvetica, Arial, sans-serif;
   color:#353535;
@@ -20,7 +10,7 @@ h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
-h2, h3 {
+h1, h2, h3 {
   color:#000000;
   margin:0 0 20px;
 }
