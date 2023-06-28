@@ -5,19 +5,22 @@
 
 header {
   h1 {color: #000000; 
-    font-size: 50px;
+    font: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 40px;
   }
 }
 body {
   color: #353535;
+  font: 14px/1.5 "Roboto", Helvetica, Arial, sans-serif;
   font-weight:400;
-
-  h4, h5, h6 {
-    color: #222;
-    margin:0 0 20px;
-  }
-  h1, h2, h3 {
-    color: #000000;
-    margin:0 0 20px;
-  }
+}
+h4, h5, h6 {
+  color: #222;
+  font: "Roboto", Helvetica, Arial, sans-serif;
+  margin:0 0 20px;
+}
+h1, h2, h3 {
+  color: #000000;
+  font: "Roboto", Helvetica, Arial, sans-serif;
+  margin:0 0 20px;
 }
