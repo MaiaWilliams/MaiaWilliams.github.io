@@ -16,7 +16,7 @@ Funded and mentored fellowship to develop a method for enabling the semi-automat
   
 
 ### Dissertations
-#### Masters of Landscape Architecture, University of Western Australia, 2020
+#### Master of Landscape Architecture, University of Western Australia, 2020
 
 
 
