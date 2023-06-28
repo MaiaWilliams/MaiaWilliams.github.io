@@ -1,5 +1,8 @@
 ---
 title: Maia Williams
+description: I am a spatial data analyst based in Perth, Western Australia. I enjoy the diversity of contexts and the multidiscplinary opportunities my spatial data passion affords me. I thrive on continual learning and teaching of spatial analysis possibilities and the small pleasures of new tricks. I am excited by open source projects like QGIS, OpenStreetMap, Wikidata and many more from the FOSS4G world.
+
+This page will become a collection of projects I've worked on.
 ---
 ## Projects, publications and dissertations
 
