@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import "fonts";
 
 header {
     h1{
@@ -14,7 +15,7 @@ header {
     }
 }
 body {
-  font: 14px/1.5 "Roboto, Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Roboto", Helvetica, Arial, sans-serif;
   color:#353535;
   font-weight:400;
 }
