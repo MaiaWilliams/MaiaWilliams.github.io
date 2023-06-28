@@ -3,7 +3,13 @@ title: Maia Williams
 description: Spatial data analyst
 ---
 ### Spatial data resources for landscape architects
-
+Resources developed for UWA landscape architecture students and others. These documents are a continual work in progress, not yet polished.
+- [Site analysis resources]( (spatial and non-spatial data sources).
+- Preparing and importing base data into AutoCAD.
+- Working with vector data in QGIS.
+- More advanced QGIS and data analysis notes.
+- Preparing AutoCAD files for printing and export to Illustrator.
+  
 ### Projects
 #### Wikimedia Australia Wikidata Fellowship project, 2022
 Funded and mentored fellowship to develop a method for enabling the semi-automated use of Wikidata population values in Australia place Wikipedia article infoboxes. With support I developed a Lua module to aid this workflow.
