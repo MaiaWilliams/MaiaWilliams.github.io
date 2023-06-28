@@ -29,9 +29,9 @@ My Master of Landscape Architecture dissertation was about the processes of urba
 - [Part 1: Such possibilities in the processes of place.](Documents/20200618_MaiaWilliams_UWA_MasterLA_DissertationPart1_SuchPossibilitiesInTheProcessesofPlace.pdf)
 - [Part 2: Living. Beside the ridge, before the sea.](Documents/20201029_MaiaWilliams_UWA_MasterLA_DissertationPart2_Living-BesidetheRidge_BeforetheSea.pdf)
 
-#### Master of Landscape Architecture design studios, University of Western Australia, 2017 and 2019
-My two favourite design studios were my first and last. First year with a pencil in hand was new and exciting (guided by Loren Holmes). Then final year with detailed data gathering using [Jan Gehl](https://en.wikipedia.org/wiki/Jan_Gehl)'s street quality and public life analysis methods (all credit to Pip Munckton and Chantal Caruso for the studio design).
-
+#### Master of Landscape Architecture design studio, University of Western Australia, 2019
+My final year design studio was a combination of data gathering and design using [Jan Gehl](https://en.wikipedia.org/wiki/Jan_Gehl)'s street quality and public life analysis methods (all credit to Pip Munckton and Chantal Caruso for the studio design). Just the right studio for me.
+- [What if? Beaufort Street](Documents/191031_MaiaWilliams_UWA_LACH4424Studio_BeaufortStreetDesign.pdf).
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
 My dissertation research was about the categories of landforms people identify and why the categories vary between landscapes. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
