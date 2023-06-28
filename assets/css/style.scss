@@ -1,8 +1,6 @@
 @import "{{ site.theme }}";
 
-
-
-header{
+header {
   h1 {color:#000000; 
     a {color:#000000;
       font-size:50px;
@@ -10,7 +8,6 @@ header{
   }
 }
 body {
-  font: 14px/1.5 "Roboto", Helvetica, Arial, sans-serif;
   color:#353535;
   font-weight:400;
 }
