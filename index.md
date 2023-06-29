@@ -35,7 +35,7 @@ My final year design studio was a combination of data gathering and design using
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
 My dissertation research was about the categories of landforms people identify and why the categories vary between landscapes. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
-- [Contribution towards understanding the categorisation of landforms](Documents/20110309_MaiaWilliams_UNL_WWU_MasterGeoTech_Dissertation.pdf) dissertation.
+- [Contribution towards understanding the categorisation of landforms](https://run.unl.pt/handle/10362/5614) dissertation.
 - [The influence of landscape variation on landform categorization](https://josis.org/index.php/josis/article/view/30) JOSIS article.
 
 #### Bachelor of Engineering (Environmental) Honours, University of Western Australia, 2006
