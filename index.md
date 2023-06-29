@@ -11,17 +11,17 @@ Resources developed for UWA landscape architecture students and practising lands
 - [Preparing AutoCAD files for printing and export to Illustrator](Documents/SpatialDataForLandscapeArchitects_Resources/20230227_MaiaWilliams_AutoCAD_Printing_and_Importing_to_Illustrator.pdf).
   
 ### Open source projects
+#### Geogeeks and FOSS4G, 2021 -  
+I help organise [Geogeeks](https://geogeeks.org/) events. Geogeeks is a community group for people interested in open source tools and data for geospatial. We run regular hack nights, speaker events and OpenStreetMap mapping days. There are drinks, pizza, like minded people, urban exploring, nerdy spatial speak - the best!
+
+In 2021 I helped organised the [FOSS4G SotM Oceania Perth Hub](https://foss4g-perth.org/) conference. This was a local event coniciding with other regional Oceania conference hubs. It was fantastic, we'll do it again one another year.
+
 #### Wikimedia Australia Wikidata Fellowship project, 2022 -
 In 2022 I participated in a mentored fellowship focussed on developing a method for the semi-automated use of Wikidata population values in Australian place Wikipedia article infoboxes. With (a lot of!) support I developed a Lua module to aid this workflow.
 - August 2023, [Wikimania](https://wikimania.wikimedia.org/wiki/2023:Wikimania) conference presentation
 - February 2023, Wikimedia East, Southeast Asia and the Pacific Regional Cooperation (ESEAP) [Hub meeting](https://meta.wikimedia.org/wiki/ESEAP_Hub/Meetings/12_February_2023) presentation: [Populating Wikipedia: Keeping population figures up-to-date in place articles](Documents/20230212_MaiaWilliams_ESEAP_PopulatingWikipedia_Presentation.pptx)
 - July 2022, Wikimedia Australia blog post: [Populating Wikipedia: New tool integrating Australian Census data, 21 July 2022](https://wikimedia.org.au/wiki/Populating_Wikipedia:_New_tool_integrating_Australian_Census_data)
 - July 2022, Lua module for Wikipedia: [PopulationFromWikidata](https://en.wikipedia.org/wiki/Module:PopulationFromWikidata)
-
-#### Geogeeks and FOSS4G, 2021 -  
-I help organise [Geogeeks](https://geogeeks.org/) events. Geogeeks is a community group for people interested in open source tools and data for geospatial. We run regular hack nights, speaker events and OpenStreetMap mapping days. There are drinks, pizza, like minded people, urban exploring, nerdy spatial speak - the best!
-
-In 2021 I helped organised the [FOSS4G SotM Oceania Perth Hub](https://foss4g-perth.org/) conference. This was a local event coniciding with other regional Oceania conference hubs. It was fantastic, we'll do it again one another year.
 
 ### Dissertations and university projects
 #### Master of Landscape Architecture dissertation, University of Western Australia, 2020
