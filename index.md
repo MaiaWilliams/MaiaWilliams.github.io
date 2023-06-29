@@ -42,7 +42,11 @@ My dissertation research was about the categories of landforms people identify a
 For the sake of completeness I include my honours dissertation here! I did this project the year after I first fell in love with spatial data analysis and I was so pleased to find an honours project that was essentially a remote sensing analysis.
 - [A farm scale site selection method for dryland forestry](Documents/20061030_MaiaWilliams_UWA_EnvEngHonours_Dissertation.pdf).
 
-### Non-spatial pursuits
+### Mapping
+Maps to come! I occasionally get excited and make some maps! I have maps of Fremantle, San Francisco and Walpole.
+
+### Non-data pursuits
+Photos to come! I have many adventures involving fabric, wood, houses and gardens!
 
 
 
