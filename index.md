@@ -36,7 +36,7 @@ My final year design studio was a combination of data gathering and design using
 
 #### Master of Landscape Architecture unit, University of Western Australia, 2018
 As part of a unit on critical theory in landscape architecture I wrote an essay about the processes of place conceptualisation and how successfully landscape architects are using digital approaches to engage with these processes.
-- [Computing place](Documents/20180511_MaiaWilliams_UWA_LACH4505_Essay_ComputingPlace.pdf)
+- [Computing place](Documents/20180511_MaiaWilliams_UWA_LACH4505_Essay_ComputingPlace.pdf).
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
 My dissertation research was about the categories of landforms people identify and why the categories vary between landscapes. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
