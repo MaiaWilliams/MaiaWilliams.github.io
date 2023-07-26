@@ -14,7 +14,7 @@ Resources developed for UWA landscape architecture students and practising lands
 #### Geogeeks and FOSS4G, 2021 -  
 I help organise [Geogeeks](https://geogeeks.org/) events. Geogeeks is a community group for people interested in open source tools and data for geospatial. We run regular hack nights, speaker events and OpenStreetMap mapping days. There are drinks, pizza, like minded people, urban exploring, nerdy spatial speak - the best!
 
-In 2021 I helped organised the [FOSS4G SotM Oceania Perth Hub](https://foss4g-perth.org/) conference. This was a local event coniciding with other regional Oceania conference hubs. It was fantastic, we'll do it again one another year.
+In 2021 I helped organised the [FOSS4G SotM Oceania Perth Hub](https://foss4g-perth.org/) conference. This was a local event coniciding with other regional Oceania conference hubs. It was fantastic, we'll do it again one day.
 
 #### Wikimedia Australia Wikidata Fellowship project, 2022 -
 In 2022 I participated in a mentored fellowship focussed on developing a method for the semi-automated use of Wikidata population values in Australian place Wikipedia article infoboxes. With (a lot of!) support I developed a Lua module to aid this workflow.
@@ -39,7 +39,7 @@ As part of a unit on critical theory in landscape architecture I wrote an essay 
 - [Computing place](Documents/20180511_MaiaWilliams_UWA_LACH4505_Essay_ComputingPlace.pdf).
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
-My dissertation research was about the categories of landforms people identify and why the categories vary between landscapes. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
+My dissertation research was about the categories of landforms people identify and if/why the categories vary between landscapes. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
 - [Contribution towards understanding the categorisation of landforms](https://run.unl.pt/handle/10362/5614) dissertation.
 - [The influence of landscape variation on landform categorization](https://josis.org/index.php/josis/article/view/30) JOSIS article.
 
