@@ -40,7 +40,7 @@ My dissertation research was about the categories of landforms people identify a
 
 #### Bachelor of Engineering (Environmental) Honours, University of Western Australia, 2006
 For the sake of completeness I include my honours dissertation here! I did this project the year after I first fell in love with spatial data analysis and I was so pleased to find an honours project that was essentially a remote sensing analysis.
-- [A farm scale site selection method for dryland forestry](Documents/20061030_MaiaWilliams_UWA_EnvEngHonours_Dissertation.pdf).
+- [A farm scale site selection method for dryland forestry](https://www.web.uwa.edu.au/__data/assets/pdf_file/0009/1637469/Williams_2007.pdf).
 
 
 
