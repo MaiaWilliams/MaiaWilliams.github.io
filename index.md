@@ -25,7 +25,7 @@ In 2022 I participated in a mentored fellowship focussed on developing a method 
 
 ### Dissertations and university projects
 #### Master of Landscape Architecture dissertation, University of Western Australia, 2020
-My Master of Landscape Architecture dissertation was about the processes of urban landscape perception and how purposefully designing for these processes might influence urban design. There is a theoretical research component (Part 1) and a loosely connected hypothetical suburb design demonstration (Part 2). Part 1 is far more interesting than Part 2, but both are here.
+My Master of Landscape Architecture dissertation was about the processes of urban landscape perception and how purposefully designing for these processes might (positively) influence urban design. There is a theoretical research component (Part 1) and a loosely connected hypothetical suburb design demonstration (Part 2). Part 1 is far more interesting than Part 2, but both are here.
 - [Part 1: Such possibilities in the processes of place.](Documents/20200618_MaiaWilliams_UWA_MasterLA_DissertationPart1_SuchPossibilitiesInTheProcessesofPlace.pdf)
 - [Part 2: Living. Beside the ridge, before the sea.](Documents/20201029_MaiaWilliams_UWA_MasterLA_DissertationPart2_Living-BesidetheRidge_BeforetheSea.pdf)
 
