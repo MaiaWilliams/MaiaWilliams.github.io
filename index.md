@@ -25,13 +25,18 @@ In 2022 I participated in a mentored fellowship focussed on developing a method 
 
 ### Dissertations and university projects
 #### Master of Landscape Architecture dissertation, University of Western Australia, 2020
-My Master of Landscape Architecture dissertation was about the processes of urban landscape perception and how purposefully designing for these processes might (positively) influence urban design. There is a theoretical research component (Part 1) and a loosely connected hypothetical suburb design demonstration (Part 2). Part 1 is far more interesting than Part 2, but both are here.
+My Master of Landscape Architecture dissertation was about the processes of urban landscape perception and place creation, and how purposefully designing for these processes might (positively) influence urban design. There is a theoretical research component (Part 1) and a loosely connected hypothetical suburb design demonstration (Part 2). Part 1 is far more interesting than Part 2, but both are here.
 - [Part 1: Such possibilities in the processes of place.](Documents/20200618_MaiaWilliams_UWA_MasterLA_DissertationPart1_SuchPossibilitiesInTheProcessesofPlace.pdf)
 - [Part 2: Living. Beside the ridge, before the sea.](Documents/20201029_MaiaWilliams_UWA_MasterLA_DissertationPart2_Living-BesidetheRidge_BeforetheSea.pdf)
 
+
 #### Master of Landscape Architecture design studio, University of Western Australia, 2019
 My final year design studio was a combination of data gathering and design using [Jan Gehl](https://en.wikipedia.org/wiki/Jan_Gehl)'s street quality and public life analysis methods (all credit to Pip Munckton and Chantal Caruso for the studio design). Just the right studio for me.
-- [What if? Beaufort Street](Documents/191031_MaiaWilliams_UWA_LACH4424Studio_BeaufortStreetDesign.pdf).
+- [What if? Beaufort Street](Documents/20191031_MaiaWilliams_UWA_LACH4424Studio_BeaufortStreetDesign.pdf).
+
+#### Master of Landscape Architecture unit, University of Western Australia, 2018
+As part of a unit on critical theory in landscape architecture I wrote an essay about the processes of place conceptualisation and how successfully landscape architects are using digital approaches to engage with these processes.
+- [Computing place](Documents/20180511_MaiaWilliams_UWA_LACH4505_Essay_ComputingPlace.pdf)
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
 My dissertation research was about the categories of landforms people identify and why the categories vary between landscapes. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
