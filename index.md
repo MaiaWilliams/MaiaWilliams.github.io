@@ -3,7 +3,7 @@ title: Maia Williams
 description: Spatial data specialist
 ---
 
-### Dissertations and university projects
+### Dissertations, publications and university projects
 #### Master of Landscape Architecture dissertation by design, University of Western Australia, 2020
 My Master of Landscape Architecture dissertation was about the processes of urban landscape perception and place creation, and how purposefully designing for and with these processes might (positively) influence urban design. The dissertation by design comprises a literature review and discussion of supporting theories (Part 1) and a hypothetical suburb design demonstration (Part 2). 
 - [Part 1: Such possibilities in the processes of place.](Documents/20200618_MaiaWilliams_UWA_MasterLA_DissertationPart1_SuchPossibilitiesInTheProcessesofPlace.pdf)
@@ -18,9 +18,10 @@ As part of a unit on critical theory in landscape architecture I wrote an essay 
 - [Computing place](Documents/20180511_MaiaWilliams_UWA_LACH4505_Essay_ComputingPlace.pdf).
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
-My dissertation research was about the categories of landforms people identify, and if/why the categories vary between different combinations of landscapes and people. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS).
+My dissertation research was about the categories of landforms people identify, and if/why the categories vary between different combinations of landscapes and people. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS) and presented at the Geomundus conference in 2011.
 - [Contribution towards understanding the categorisation of landforms](https://run.unl.pt/handle/10362/5614) dissertation.
-- [The influence of landscape variation on landform categorization](https://josis.org/index.php/josis/article/view/30) JOSIS article.
+- [The influence of landscape variation on landform categorization](https://josis.org/index.php/josis/article/view/30) JOSIS paper.
+- [The influence of landscape variation on landform categorisation](Documents/20111026_MaiaWilliams_GeoMundus2011_ConferencePaper_TheInfluenceofLandscapeVariationOnLandformCategorisation.pdf) Geomundus paper and [presentation](Documents/20111026_MaiaWilliams_GeoMundus2011_ConferencePresentation_TheInfluenceofLandscapeVariationOnLandformCategorisation.pptx).
 
 #### Bachelor of Engineering (Environmental) Honours, University of Western Australia, 2006
 For the sake of completeness I include my honours dissertation here. I did this project the year after I first began working with spatial data and I was so pleased to find an honours project that was essentially a remote sensing data analysis.
