@@ -18,7 +18,7 @@ As part of a unit on critical theory in landscape architecture I wrote an essay 
 - [Computing place](Documents/20180511_MaiaWilliams_UWA_LACH4505_Essay_ComputingPlace.pdf).
 
 #### Master of Science in Geospatial Technologies, Universidade Nova de Lisboa and Westfälische Wilhelms-Universität Münster, 2011
-My dissertation research was about the categories of landforms people identify, and if/why the categories vary between different combinations of landscapes and people. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS) and presented at the Geomundus conference in 2011.
+My dissertation research was about the categories of landforms people identify, and if/why the categories vary between different combinations of landscapes and people. I was studying in Portugal and Germany, and did my dissertation research in Portugal. I published my research in the Journal of Spatial Information Science (JOSIS) and presented at the [Geomundus conference](http://geomundus.org/2011/about-2/) in 2011.
 - [Contribution towards understanding the categorisation of landforms](https://run.unl.pt/handle/10362/5614) dissertation.
 - [The influence of landscape variation on landform categorization](https://josis.org/index.php/josis/article/view/30) JOSIS paper.
 - [The influence of landscape variation on landform categorisation](Documents/20111026_MaiaWilliams_GeoMundus2011_ConferencePaper_TheInfluenceofLandscapeVariationOnLandformCategorisation.pdf) Geomundus paper and [presentation](Documents/20111026_MaiaWilliams_GeoMundus2011_ConferencePresentation_TheInfluenceofLandscapeVariationOnLandformCategorisation.pptx).
