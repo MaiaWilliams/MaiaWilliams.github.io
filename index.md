@@ -42,11 +42,11 @@ In 2021 I helped organised the [FOSS4G SotM Oceania Perth Hub](https://foss4g-pe
 
 ### Spatial data resources for landscape architects
 Resources developed for UWA landscape architecture students and practising landspace architects/environmental scientists. These documents are a continual work in progress, not yet polished and in need of collation ... but often useful. I use these documents when guest teaching at landscape architecture design studios or helping practices with GIS training.
-- [Site analysis resources](Documents/SpatialDataForLandscapeArchitects_Resources/20230227_MaiaWilliams_SiteAnalysisResources.pdf) (spatial and non-spatial data sources).
-- [Preparing and importing base data into AutoCAD](Documents/SpatialDataForLandscapeArchitects_Resources/20230227_MaiaWilliams_BaseDataIntoCAD_Notes.pdf).
-- [Working with vector data in QGIS](Documents/SpatialDataForLandscapeArchitects_Resources/20230227_MaiaWilliams_WorkingwithShapefilesandGeopackagesinQGIS_Notes.pdf).
-- [More advanced QGIS and data analysis notes](Documents/SpatialDataForLandscapeArchitects_Resources/20230504_MaiaWilliams_GeneralQGISNotes.pdf).
-- [Preparing AutoCAD files for printing and export to Illustrator](Documents/SpatialDataForLandscapeArchitects_Resources/20230227_MaiaWilliams_AutoCAD_Printing_and_Importing_to_Illustrator.pdf).
+- [Site analysis resources](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_SiteAnalysisResources.pdf) (spatial and non-spatial data sources).
+- [Preparing and importing base data into AutoCAD](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_BaseDataIntoAutoCAD.pdf).
+- [QGIS basics](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_QGISBasics.pdf).
+- [More advanced QGIS and data analysis notes](Documents/SpatialDataForLandscapeArchitects_Resources/20230815_GeneralQGISNotes.pdf).
+- [Preparing AutoCAD files for printing and export to Illustrator](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_AutoCAD_Printing_and_Exporting_to_Illustrator.pdf).
   
 
 
