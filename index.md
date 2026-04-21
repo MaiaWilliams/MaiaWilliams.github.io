@@ -3,7 +3,7 @@ title: Maia Williams
 description: Spatial data specialist
 ---
 
-### Spatial data resources for landscape architects
+### 1. Spatial data resources for landscape architects
 Resources developed for landscape architecture students and practising landspace architects/environmental scientists in Western Australia. I use these documents when guest teaching at UWA Master of Landscape Architecture design studios or helping companies with GIS training.
 - [Site analysis resources](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_SiteAnalysisResources.pdf) (spatial and non-spatial data sources).
 - [Preparing and importing base data into AutoCAD](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_BaseDataIntoAutoCAD.pdf).
@@ -11,7 +11,7 @@ Resources developed for landscape architecture students and practising landspace
 - [More advanced QGIS and data analysis notes](Documents/SpatialDataForLandscapeArchitects_Resources/20230815_GeneralQGISNotes.pdf).
 - [Preparing AutoCAD files for printing and export to Illustrator](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_AutoCAD_Printing_and_Exporting_to_Illustrator.pdf).
 
-### Dissertations, publications and university projects
+### 2. Dissertations, publications and university projects
 ##### Master of Landscape Architecture dissertation by design, University of Western Australia, 2020
 My Master of Landscape Architecture dissertation was about the processes of urban landscape perception and place creation, and how purposefully designing for and with these processes might (positively) influence urban design. The dissertation by design comprises a literature review and discussion of supporting theories (Part 1) and a hypothetical suburb design demonstration (Part 2). 
 - [Part 1: Such possibilities in the processes of place.](Documents/20200618_MaiaWilliams_UWA_MasterLA_DissertationPart1_SuchPossibilitiesInTheProcessesofPlace.pdf)
@@ -35,7 +35,7 @@ My dissertation research was about the categories of landforms people identify, 
 For the sake of completeness I include my honours dissertation here. I did this project the year after I first began working with spatial data and I was so pleased to find an honours project that was essentially a remote sensing data analysis.
 - [A farm scale site selection method for dryland forestry](https://www.web.uwa.edu.au/__data/assets/pdf_file/0009/1637469/Williams_2007.pdf).
 
-### Open source projects
+### 3. Open source projects
 ##### Wikimedia Australia Wikidata Fellowship project, 2022 -
 In 2022 I participated in a mentored fellowship focussed on developing a method for the semi-automated use of Wikidata population values in Australian place Wikipedia article infoboxes. With support I developed a Lua module to aid this workflow.
 - August 2023, [Wikimania](https://wikimania.wikimedia.org/wiki/2023:Lightning_talks) conference presentation
