@@ -4,7 +4,7 @@ description: Spatial data specialist
 ---
 
 ### Spatial data resources for landscape architects
-Resources developed for WA landscape architecture students and practising landspace architects/environmental scientists. I use these documents when guest teaching at UWA Master of Landscape Architecture design studios or helping companies with GIS training.
+Resources developed for landscape architecture students and practising landspace architects/environmental scientists in Western Australia. I use these documents when guest teaching at UWA Master of Landscape Architecture design studios or helping companies with GIS training.
 - [Site analysis resources](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_SiteAnalysisResources.pdf) (spatial and non-spatial data sources).
 - [Preparing and importing base data into AutoCAD](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_BaseDataIntoAutoCAD.pdf).
 - [QGIS basics](Documents/SpatialDataForLandscapeArchitects_Resources/20230806_LandscapeArchitecture_QGISBasics.pdf).
